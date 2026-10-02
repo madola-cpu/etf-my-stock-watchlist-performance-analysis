@@ -23,3 +23,11 @@ Thumbs.db
 .venv-1/
 # Generated market data
 data/raw/*.csv
+
+# Generated datasets
+data/raw/*.csv
+data/processed/*.csv
+
+
+
+
