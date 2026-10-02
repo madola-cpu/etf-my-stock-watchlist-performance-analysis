@@ -1,4 +1,5 @@
-#ETF and Stock Watchlist Performance Analysis
+
+##ETF and Stock Watchlist Performance Analysis
 
 ## Project overview
 
@@ -8,28 +9,25 @@ The goal is to apply data analysis and finacial analysis techniques to evaluate 
 #Assets
 
 ## ETFs
--VOO
-VXUS
-SCHD
-VNQ
-QQQM
+VOO,
+VXUS,
+SCHD,
+VNQ,
+QQQM,
 FXAIX
 
-
 ### Stocks
--AMZN
-AAPL
-MSFT
+AMZN,
+AAPL,
+MSFT,
 NVDA
 
 ##  tools
-
--Python
-Excel
--SQL
--Tableau
+Python,
+Excel,
+SQL,
+Tableau,
 Git $ Github
-
 
 ## Project Status
 work in progress

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Environment variables / secrets
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+
+.venv-1/
+# Generated market data
+data/raw/*.csv
